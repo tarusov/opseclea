@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Execution mutexes.
+CKP_*
+ops_prng
+lea_client
